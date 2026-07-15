@@ -2,7 +2,11 @@
 
 ## Purpose
 
-This application generates a receipt for a food delivery order. It collects customer information, calculates subtotal, service charge, delivery charge, and displays the final receipt.
+This application generates a receipt for a food delivery order. It collects customer information, calculates subtotal, service charge, delivery charge, and displays t
+
+https://github.com/user-attachments/assets/0565f204-3d1c-4598-878e-5fe69de6bfe7
+
+he final receipt.
 
 ## Tech Stack
 
