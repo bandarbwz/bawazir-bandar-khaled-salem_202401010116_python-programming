@@ -1,4 +1,9 @@
 # Week 9 - Ticket Registration System
+##MVP
+
+
+https://github.com/user-attachments/assets/e1dd7a20-dec5-41b7-9ce5-78c2f1dce577
+
 
 ## Purpose
 This application is a simple IT Helpdesk Ticket Registration System.
@@ -38,3 +43,4 @@ python main.py
 | High | Ahmad |
 | Medium | Siti |
 | Low | Ali |
+
